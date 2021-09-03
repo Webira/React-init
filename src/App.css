@@ -9,3 +9,6 @@
   color: red;
 
 }
+.Card.Link{
+  display :flex;
+}
