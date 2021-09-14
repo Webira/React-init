@@ -9,6 +9,18 @@
   color: red;
 
 }
-.Card.Link{
-  display :flex;
+.d-flex{
+  display :flex!;
+}
+.flex-wrap{
+  flex-wrap: wrap;
+}
+.justify-arround{
+  justify-content: space-around;
+}
+.justify-center{
+  justify-content: center;
+}
+.flex-column{
+  flex-direction: column;
 }
